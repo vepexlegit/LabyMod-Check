@@ -1,8 +1,8 @@
 [
 {
-  "modid": "labymodcheck",
-  "name": "LabyModCheck",
-  "description": "LabyMod Check | 1.8.9",
+  "modid": "labymodcheckdebug",
+  "name": "LabyModCheckDebug",
+  "description": "LabyMod Check Debug | 1.8.9",
   "version": "1.0",
   "mcversion": "1.8.9",
   "url": "https://github.com/vepexlegit",
